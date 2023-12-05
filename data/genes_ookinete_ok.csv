@@ -1,0 +1,9 @@
+GENE,Hepatocystis,P.adleri,P.berghei,P.billcollinsi,P.blacklocki,P.chabaudi,P.coatneyi,P.cynomolgi,P.falciparum,P.fragile,P.gaboni,P.gallinaceum,P.gonderi,P.inui,P.knowlesi,P.malariae,P.malariaelike,P.ovalecurtisi,P.ovalewallikeri,P.praefalciparum,P.reichenowi,P.relictum,P.vinckei,P.vivaxlike,P.vivax,P.yoelii
+CelTOS,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+ENO,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+P25/P28,2,2,2,2,2,2,1,4,2,2,2,2,2,2,2,2,1,2,4,2,2,2,2,2,2,2
+PLP3,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+PLP5,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SOAP,0,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+SUB2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1
+WARP,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,0,1,1,1,1,1,1,1,1,1
