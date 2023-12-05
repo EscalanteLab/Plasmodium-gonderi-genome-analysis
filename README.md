@@ -10,7 +10,7 @@ This repository hosts the custom scripts and analyses of the *Plasmodium gonderi
 **Genomic Characteristics:** We explore the codon usage, syntenic blocks, and gene families, highlighting the evolutionary trajectory of these parasites.
 
 
-**Evolutionary Insights:** Our analysis includes phylogenetic and divergence time estimates, shedding light on the ancestral relationships and geographical origins of various *Plasmodium* species, including the lineage of *P. vivax*.
+**Evolutionary Insights:** Our analysis includes phylogenetic and divergence time estimates of the origing and diversification of Plasmodium parasites.
 
 
 **Host-Parasite Interaction:** We identify regions in the genome correlating with the parasite's ability to adapt and colonize vertebrate hosts, providing insights into the host-Plasmodium evolutionary dynamics.
